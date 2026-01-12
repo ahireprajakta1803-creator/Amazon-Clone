@@ -1,1 +1,2 @@
 # Amazon-Clone
+This is a front‑end project built with HTML and CSS that replicates the look and feel of Amazon’s website. It focuses on creating a responsive layout with a navigation bar, product listings, banners, and a footer section. The project demonstrates skills in UI design, Flexbox/Grid layouts, and styling components to mimic a real e‑commerce platform. While it doesn’t include backend functionality, it serves as a practice project for page structure, styling, and responsive design techniques.
